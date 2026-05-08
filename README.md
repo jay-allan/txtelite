@@ -1,7 +1,8 @@
 # TXTELITE — Text Elite 1.5 (TypeScript port)
 
-A TypeScript/Node.js port of Text Elite 1.5, a text-mode trading game
-based on the BBC Micro game Elite.
+A TypeScript/Node.js port of Text Elite 1.5 by Ian Bell — a text-mode trading
+game based on the BBC Micro game Elite. The original C source (`TXTELITE.C`)
+is available at http://elitehomepage.org/text/index.htm
 
 ## Building
 
